@@ -1,0 +1,2 @@
+/usr/bin/ar qc libargv.a  CMakeFiles/argv.dir/argv_tool.cpp.o
+/usr/bin/ranlib libargv.a

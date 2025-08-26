@@ -1,10 +1,10 @@
 #ifndef CHAINSAW_COMMON_STRINGTOOL_STRINGTOOL_H
 #define CHAINSAW_COMMON_STRINGTOOL_STRINGTOOL_H
 
-#include "../../head.h"
-#include "../../error_message/print_err.h"
-#include "../chartool.h"
-#include "../print.h"
+#include "head.h"
+#include "error_message.h"
+#include "chartool.h"
+#include "print.h"
 
 namespace chainsaw
 {

@@ -1,4 +1,4 @@
-#include "include/command.h"
+#include "command.h"
 
 bool chainsaw::command::node::empty()
 {

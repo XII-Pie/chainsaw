@@ -1,7 +1,7 @@
 #ifndef CHAINSAW_COMMON_STRINGTOOL_CUT_H
 #define CHAINSAW_COMMON_STRINGTOOL_CUT_H
 
-#include "../../head.h"
+#include "head.h"
 
 namespace chainsaw
 {

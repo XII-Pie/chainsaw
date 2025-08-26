@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/argv",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/argv/include  -g   -o CMakeFiles/argv.dir/argv_tool.cpp.o -c /home/yu/library/chainsaw/src/argv/argv_tool.cpp",
+  "file": "/home/yu/library/chainsaw/src/argv/argv_tool.cpp"
+},
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/common",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/common/include  -g   -o CMakeFiles/common.dir/chartool.cpp.o -c /home/yu/library/chainsaw/src/common/chartool.cpp",
+  "file": "/home/yu/library/chainsaw/src/common/chartool.cpp"
+},
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/common",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/common/include  -g   -o CMakeFiles/common.dir/command.cpp.o -c /home/yu/library/chainsaw/src/common/command.cpp",
+  "file": "/home/yu/library/chainsaw/src/common/command.cpp"
+},
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/common",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/common/include  -g   -o CMakeFiles/common.dir/option.cpp.o -c /home/yu/library/chainsaw/src/common/option.cpp",
+  "file": "/home/yu/library/chainsaw/src/common/option.cpp"
+},
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/common",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/common/include  -g   -o CMakeFiles/common.dir/print.cpp.o -c /home/yu/library/chainsaw/src/common/print.cpp",
+  "file": "/home/yu/library/chainsaw/src/common/print.cpp"
+},
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/common",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/common/include  -g   -o CMakeFiles/common.dir/read_config_message.cpp.o -c /home/yu/library/chainsaw/src/common/read_config_message.cpp",
+  "file": "/home/yu/library/chainsaw/src/common/read_config_message.cpp"
+},
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/common",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/common/include  -g   -o CMakeFiles/common.dir/readwritefile.cpp.o -c /home/yu/library/chainsaw/src/common/readwritefile.cpp",
+  "file": "/home/yu/library/chainsaw/src/common/readwritefile.cpp"
+},
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/common/stringtool",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/common/stringtool/include  -g   -o CMakeFiles/stringtool.dir/cut.cpp.o -c /home/yu/library/chainsaw/src/common/stringtool/cut.cpp",
+  "file": "/home/yu/library/chainsaw/src/common/stringtool/cut.cpp"
+},
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/common/stringtool",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/common/stringtool/include  -g   -o CMakeFiles/stringtool.dir/stringtool.cpp.o -c /home/yu/library/chainsaw/src/common/stringtool/stringtool.cpp",
+  "file": "/home/yu/library/chainsaw/src/common/stringtool/stringtool.cpp"
+},
+{
+  "directory": "/home/yu/library/chainsaw/build/bin/error_message",
+  "command": "/usr/bin/g++   -I/home/yu/library/chainsaw/src/. -I/home/yu/library/chainsaw/src/error_message/include  -g   -o CMakeFiles/error_message.dir/print_err.cpp.o -c /home/yu/library/chainsaw/src/error_message/print_err.cpp",
+  "file": "/home/yu/library/chainsaw/src/error_message/print_err.cpp"
+}
+]

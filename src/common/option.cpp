@@ -1,4 +1,4 @@
-#include "../option.h"
+#include "option.h"
 
 chainsaw::option::option(string s)
 {

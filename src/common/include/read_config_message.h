@@ -1,10 +1,10 @@
 #ifndef CHAINSAW_COMMON_READ_CONFIG_MESSAGE_H
 #define CHAINSAW_COMMON_READ_CONFIG_MESSAGE_H
 
-#include "../head.h"
+#include "head.h"
 #include "readwritefile.h"
 #include "stringtool.h"
-#include "../error_message.h"
+#include "error_message.h"
 
 namespace chainsaw
 {

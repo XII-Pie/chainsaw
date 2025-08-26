@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstringtool.a  CMakeFiles/stringtool.dir/cut.cpp.o CMakeFiles/stringtool.dir/stringtool.cpp.o
+/usr/bin/ranlib libstringtool.a

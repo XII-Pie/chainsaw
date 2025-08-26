@@ -1,6 +1,13 @@
-#ifndef CHAINSAW_ERRORRMESSAGE_H
-#define CHAINSAW_ERRORRMESSAGE_H
+#ifndef CHAINSAW_ERRORRMESSAGE_PRINTTERR_H
+#define CHAINSAW_ERRORRMESSAGE_PRINTTERR_H
 
-#include "include/print_err.h"
+#include "head.h"
 
-#endif // !CHAINSAW_ERRORRMESSAGE_H
+namespace chainsaw
+{
+    // "ERROR: ([chainsaw->class_msg]->)[message]"
+    void print_error(string message, string class_msg = "");
+
+} // namespace chainsaw
+
+#endif // !CHAINSAW_ERRORRMESSAGE_PRINTTERR_H

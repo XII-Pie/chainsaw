@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/yu/library/chainsaw/build/src/cmake_install.cmake")
+  include("/home/yu/library/chainsaw/build/bin/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

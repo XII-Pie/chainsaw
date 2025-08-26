@@ -1,4 +1,4 @@
-#include "../stringtool.h"
+#include "include/stringtool.h"
 
 void chainsaw::stringtool::print_error(string message)
 {

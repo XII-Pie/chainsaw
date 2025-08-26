@@ -2,7 +2,7 @@
 #define CHAINSAW_COMMON_COMMAND_H
 
 #include "head.h"
-#include "../error_message.h"
+#include "error_message.h"
 #include "option.h"
 #include "stringtool.h"
 #include "print.h"

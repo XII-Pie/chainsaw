@@ -1,8 +1,8 @@
 #ifndef CHAINSAW_COMMON_OPTION_H
 #define CHAINSAW_COMMON_OPTION_H
 
-#include "../head.h"
-#include "../error_message/print_err.h"
+#include "head.h"
+#include "error_message.h"
 
 namespace chainsaw
 {

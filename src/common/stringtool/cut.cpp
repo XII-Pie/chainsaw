@@ -1,4 +1,4 @@
-#include "../cut.h"
+#include "cut.h"
 
 chainsaw::cut::cut(string data) : ori(data)
 {

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon.a  CMakeFiles/common.dir/chartool.cpp.o CMakeFiles/common.dir/command.cpp.o CMakeFiles/common.dir/option.cpp.o CMakeFiles/common.dir/print.cpp.o CMakeFiles/common.dir/read_config_message.cpp.o CMakeFiles/common.dir/readwritefile.cpp.o
+/usr/bin/ranlib libcommon.a

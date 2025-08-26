@@ -1,4 +1,4 @@
-#include "../read_config_message.h"
+#include "read_config_message.h"
 
 bool chainsaw::ReadConfigMessage::kv::empty()
 {
